@@ -3,7 +3,7 @@ package com.rt.cloning;
 public class TestClass {
 //VIVEK
 	//CCVT
-	//JAVAASSIGNMENT
+	//JAVAASSIGNMENT2
 	/**
 	 * @param args
 	 * @throws CloneNotSupportedException 
